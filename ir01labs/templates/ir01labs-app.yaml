@@ -1,8 +1,8 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: ir01labs-app
-  title: ir01labs Web Application
+  name: IR01Labs
+  title: IR01Labs Web Application
   description: Create a new Web Application
   tags:
     - go
@@ -100,7 +100,7 @@ spec:
             allowedHosts:
               - github.com
             allowedOwners:
-              - ir01labs-tech
+              - ridwansswnto
               - diegoluisi
             # allowedRepos:
             #   - ${{ parameters.component_id }}

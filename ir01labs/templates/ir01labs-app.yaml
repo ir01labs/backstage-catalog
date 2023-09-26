@@ -101,7 +101,7 @@ spec:
               - github.com
             allowedOwners:
               - ridwansswnto
-              - diegoluisi
+              - ir01labs
             # allowedRepos:
             #   - ${{ parameters.component_id }}
 
